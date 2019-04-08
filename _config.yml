@@ -1,10 +1,10 @@
-name: Artemis
-url: https://github.com/Dreyer/hexo-theme-artemis
+name: Kris
+url: https://github.com/wangfagkui
 
 menu:
   Home: /
-  Archives: /archives
-  GitHub: https://github.com/Dreyer
+  Archives: /archives/
+  GitHub: https://github.com/wangfagkui
   RSS: /atom.xml
 
 favicon: /favicon.png
@@ -20,6 +20,6 @@ google_analytics:
 
 # Copyright Infomation
 copyright:
-  since:
-  name:
+  since: 2019
+  name: Kris's Studio
   url:
